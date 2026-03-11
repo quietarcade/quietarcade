@@ -21,7 +21,7 @@
             align-items: center;
             background-image: url("background-tile.png");
             background-repeat: repeat;
-            gap: 2rem;
+            gap: 1rem;
             padding: 2rem;
             position: relative;
         }
@@ -56,7 +56,7 @@
         }
 
         img {
-            max-width: 90%;
+            max-width: 45%;
             height: auto;
             filter: drop-shadow(0 4px 8px rgba(255, 255, 255, 0.8));
         }
@@ -74,6 +74,18 @@
         .github-link img:hover {
             opacity: 1;
         }
+
+        footer {
+            position: fixed;
+            bottom: 1rem;
+            left: 0;
+            right: 0;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            font-size: 0.875rem;
+            color: #333;
+            z-index: 1;
+        }
     </style>
 </head>
 <body>
@@ -82,5 +94,8 @@
     <a href="https://github.com/quietarcade" target="_blank" rel="noopener noreferrer" class="github-link">
         <img src="github.png" alt="GitHub">
     </a>
+    <footer>
+        &copy; 2026 quietarcade. All rights reserved.
+    </footer>
 </body>
 </html>
