@@ -19,7 +19,7 @@
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            background-image: url("background-tile.png");
+            background-image: url("background-tile-dark.png");
             background-repeat: repeat;
             gap: 1rem;
             padding: 2rem;
@@ -86,9 +86,29 @@
             color: #333;
             z-index: 1;
         }
+
+        .theme-toggle {
+            position: fixed;
+            top: 1rem;
+            right: 1rem;
+            padding: 0.5rem 1rem;
+            background: rgba(255, 255, 255, 0.9);
+            border: 2px solid #333;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 0.875rem;
+            cursor: url('cursor.png'), pointer;
+            z-index: 1;
+            transition: background 0.3s;
+        }
+
+        .theme-toggle:hover {
+            background: rgba(255, 255, 255, 1);
+        }
     </style>
 </head>
 <body>
+    <button class="theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
     <img src="quietarcade.png" alt="quietarcade logo">
     <img src="text.png" alt="quietarcade">
     <a href="https://github.com/quietarcade" target="_blank" rel="noopener noreferrer" class="github-link">
@@ -97,5 +117,17 @@
     <footer>
         &copy; 2026 quietarcade. All rights reserved.
     </footer>
+    <script>
+        function toggleTheme() {
+            const body = document.body;
+            const currentBg = body.style.backgroundImage;
+            
+            if (currentBg.includes('background-tile-dark.png')) {
+                body.style.backgroundImage = "url('background-tile.png')";
+            } else {
+                body.style.backgroundImage = "url('background-tile-dark.png')";
+            }
+        }
+    </script>
 </body>
 </html>
