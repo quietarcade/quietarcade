@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>quietarcade</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background-image: url("/quietarcade-bg.svg");
+            background-repeat: repeat;
+            gap: 2rem;
+            padding: 2rem;
+        }
+
+        img {
+            max-width: 90%;
+            height: auto;
+        }
+
+        .github-link {
+            margin-top: 1rem;
+        }
+
+        .github-link img {
+            max-width: 48px;
+            opacity: 0.7;
+            transition: opacity 0.3s;
+        }
+
+        .github-link img:hover {
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <img src="quietarcade.png" alt="quietarcade logo">
+    <img src="text.png" alt="quietarcade">
+    <a href="https://github.com/quietarcade" target="_blank" rel="noopener noreferrer" class="github-link">
+        <img src="github.png" alt="GitHub">
+    </a>
+</body>
+</html>
