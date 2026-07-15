@@ -1,6 +1,6 @@
 <img width="1983" height="793" alt="quietarcade" src="https://github.com/user-attachments/assets/da4d3dfe-14cb-4ba7-9eb5-3be635026789" />
 
-I'm Dylan - a Senior Cloud Engineer based in Arlington, VA. Previously at Rapid7, Chef, and Allstate.  
+I'm Dylan - a Senior Cloud Engineer based in Arlington, VA soon to be in Belfast, IE. Previously at Rapid7, Chef, and Allstate.  
 Currently building things at [@meduseld-io](https://github.com/meduseld-io).
 
 ## what I'm working on
