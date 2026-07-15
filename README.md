@@ -1,6 +1,12 @@
-<img width="1377" height="433" alt="ChatGPT Image Jul 15, 2026, 12_47_24 PM (1)" src="https://github.com/user-attachments/assets/ac824461-a791-4d7c-a638-4db7d05f7c73" />\
+<p align="center"><img src="https://github.com/user-attachments/assets/1bcb3e9a-c759-4b00-8d1c-3d116143fc84" alt="quietarcade" width="1536"></p>
 
 ```console
+$ ssh quietarcade@github
+
+Authenticated using public key.
+
+Welcome to quietarcade.
+
 quietarcade@github:~$ whoami
 
 Dylan Martin
@@ -14,9 +20,7 @@ Previously:
 
 Currently building open-source infrastructure at:
 https://github.com/meduseld-io
-```
 
-```console
 quietarcade@github:~$ ls projects/
 
 📁 herugrim/
@@ -43,9 +47,7 @@ quietarcade@github:~$ ls projects/
     Sync Letterboxd watchlists to Seerr
     Python • Flask • Docker
     https://github.com/meduseld-io/letterboxderr
-```
 
-```console
 quietarcade@github:~$ cat stack.txt
 
 Languages
@@ -69,18 +71,14 @@ Infrastructure
 Databases
   PostgreSQL
   Redis
-```
 
-```console
 quietarcade@github:~$ bookmarks
 
 🌐 https://quietarca.de
 🏰 https://meduseld.io
 🛠️ https://github.com/meduseld-io
-```
 
-```console
-quietarcade@github:~$ echo "Always building."
+quietarcade@github:~$ echo $ETHOS
 
-Always building.
+Less noise. Better software.
 ```
