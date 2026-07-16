@@ -1,4 +1,6 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/1bcb3e9a-c759-4b00-8d1c-3d116143fc84" alt="quietarcade" width="1536"></p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1bcb3e9a-c759-4b00-8d1c-3d116143fc84" alt="quietarcade" width="1536">
+</p>
 
 ```console
 $ ssh quietarcade@github
@@ -28,6 +30,11 @@ quietarcade@github:~$ ls projects/
     Cloudflare Workers • Discord Bots
     https://github.com/meduseld-io/herugrim
 
+📁 argonath/
+    Lightweight game server panel in a Docker container
+    Flask • Docker • SteamCMD
+    https://github.com/meduseld-io/argonath
+
 📁 fellowsync/
     Self-hosted Spotify listening rooms
     Flask • React • Redis
@@ -37,6 +44,11 @@ quietarcade@github:~$ ls projects/
     Expiry tracker with email & push reminders
     Express • React • SQLite
     https://github.com/meduseld-io/exspire
+
+📁 bree/
+    Interview prep hub with BYOK AI analysis
+    Vanilla JS • Cloudflare Pages
+    https://github.com/meduseld-io/bree
 
 📁 lembas/
     Phone-first shopping list & to-do PWA
@@ -51,26 +63,28 @@ quietarcade@github:~$ ls projects/
 quietarcade@github:~$ cat stack.txt
 
 Languages
-  Python
-  JavaScript
+    Python
+    JavaScript
 
 Backend
-  Flask
-  Express
-  Cloudflare Workers
+    Flask
+    Express
+    Cloudflare Workers
 
 Frontend
-  React
-  Vite
+    React
+    Vite
 
 Infrastructure
-  Docker
-  Linux
-  Cloudflare Tunnel
+    Docker
+    Linux
+    Cloudflare Tunnel
+    SteamCMD
 
 Databases
-  PostgreSQL
-  Redis
+    PostgreSQL
+    Redis
+    SQLite
 
 quietarcade@github:~$ bookmarks
 
@@ -81,4 +95,6 @@ quietarcade@github:~$ bookmarks
 quietarcade@github:~$ echo $ETHOS
 
 Less noise. Better software.
+
+quietarcade@github:~$ █
 ```
