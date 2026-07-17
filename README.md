@@ -13,7 +13,7 @@ quietarcade@github:~$ whoami
 
 Dylan Martin
 Senior Cloud Engineer
-Arlington, VA 🇺🇸 → Belfast, Northern Ireland 🇬🇧
+Arlington, VA 🇺🇸 → Belfast, Ireland 🇮🇪
 
 Previously:
 - Rapid7
