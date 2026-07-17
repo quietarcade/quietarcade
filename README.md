@@ -45,11 +45,6 @@ quietarcade@github:~$ ls projects/
     Express • React • SQLite
     https://github.com/meduseld-io/exspire
 
-📁 bree/
-    Interview prep hub with BYOK AI analysis
-    Vanilla JS • Cloudflare Pages
-    https://github.com/meduseld-io/bree
-
 📁 lembas/
     Phone-first shopping list & to-do PWA
     React • Vite
