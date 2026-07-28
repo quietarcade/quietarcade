@@ -1,3 +1,10 @@
+<p align="center">
+
+  <img src="https://github.com/user-attachments/assets/1bcb3e9a-c759-4b00-8d1c-3d116143fc84" alt="quietarcade" width="1536">
+
+</p>
+
+```console
 $ ssh quietarcade@github
 Authenticated using public key.
 Welcome to quietarcade.
@@ -91,3 +98,4 @@ quietarcade@github:~$ echo $ETHOS
 Less noise. Better software.
 
 quietarcade@github:~$ █
+```
