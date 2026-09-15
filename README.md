@@ -12,7 +12,8 @@ Welcome to quietarcade.
 quietarcade@github:~$ whoami
 Dylan Martin
 Senior Cloud Engineer
-Arlington, VA 🇺🇸 → Belfast, Ireland 🇮🇪
+Upwind Security
+Belfast, Ireland 🇮🇪
 
 Previously:
 - Rapid7
@@ -63,6 +64,7 @@ quietarcade@github:~$ cat stack.txt
 Languages
   Python
   JavaScript
+  Go
 
 Backend
   Flask
