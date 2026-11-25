@@ -23,12 +23,7 @@ Previously:
 Currently building open-source infrastructure at:
 https://github.com/meduseld-io
 
-quietarcade@github:~$ ls projects/
-
-📁 mattis/
-  Full-stack operations platform for a 500+ member gaming community
-  React • Express • MySQL • Discord.js • PM2
-  https://1stmarinedivision.com
+quietarcade@github:~$ ls projects/meduseld/
 
 📁 herugrim/
   Discord OIDC provider for Cloudflare Access
@@ -48,7 +43,7 @@ quietarcade@github:~$ ls projects/
 📁 exspire/
   Expiry tracker with email & push reminders
   Express • React • SQLite
-  https://github.com/meduseld-io/exspire
+  https://exspire.meduseld.io
 
 📁 lembas/
   Phone-first shopping list & to-do PWA
@@ -59,6 +54,35 @@ quietarcade@github:~$ ls projects/
   Sync Letterboxd watchlists to Seerr
   Python • Flask • Docker
   https://github.com/meduseld-io/letterboxderr
+
+📁 redbook/
+  Reading log with ratings, reviews & share cards
+  React • Vite • Supabase • Capacitor
+  https://redbook.club
+
+📁 slopmart/
+  Parody supermarket for AI-generated products
+  Cloudflare Workers
+  https://slopmart.store
+
+quietarcade@github:~$ ls projects/squad/
+
+📁 mattis/
+  Full-stack operations platform for a 500+ member gaming community
+  React • Express • MySQL • Discord.js • PM2
+  https://1stmarinedivision.com
+
+📁 forwardobserver/
+  Server browser and live stats for Squad
+  Express • GameDig • Steam sign-in
+  https://meduseld.io/forwardobserver/
+
+quietarcade@github:~$ ls projects/personal/
+
+📁 slopify/
+  Turns short messages into corporate AI slop
+  Bash • Claude Code • Homebrew
+  https://github.com/quietarcade/slopify
 
 quietarcade@github:~$ cat stack.txt
 Languages
